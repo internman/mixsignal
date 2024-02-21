@@ -68,6 +68,5 @@ class IntegratedChargePump:
         return tmp_CurrentSumOut
 
 
-asd = 1
 
 
